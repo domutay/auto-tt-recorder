@@ -1,7 +1,7 @@
 {
-  "szs-tools-windows": "https://szs.wiimm.de/download/szs-v2.36a-r8834-cygwin64.zip",
-  "szs-tools-linux": "https://szs.wiimm.de/download/szs-v2.36a-r8834-x86_64.tar.gz",
+  "szs-tools-windows": "https://szs.wiimm.de/download/szs-v2.37a-r8863-cygwin64.zip",
+  "szs-tools-linux": "https://szs.wiimm.de/download/szs-v2.37a-r8863-x86_64.tar.gz",
   "wit-windows": "https://wit.wiimm.de/download/wit-v3.05a-r8638-cygwin64.zip",
   "wit-linux": "https://wit.wiimm.de/download/wit-v3.05a-r8638-x86_64.tar.gz",
-  "ffmpeg-windows": "https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-6.0-essentials_build.7z"
+  "ffmpeg-windows": "https://github.com/GyanD/codexffmpeg/releases/download/6.0/ffmpeg-6.0-essentials_build.7z"
 }
